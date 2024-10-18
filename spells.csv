@@ -1,362 +1,362 @@
-Name,Level,Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Warlock,Wizard
-Blade Ward,0,X,,,,,X,X,X
-Dancing Lights,0,X,,,,,X,,X
-Friends,0,X,,,,,X,X,X
-Light,0,X,X,,,,X,,X
-Mage Hand,0,X,,,,,X,X,X
-Mending,0,X,X,X,,,X,,X
-Message,0,X,,,,,X,,X
-Minor Illusion,0,X,,,,,X,X,X
-Prestidigitation,0,X,,,,,X,X,X
-True Strike,0,X,,,,,X,X,X
-Vicious Mockery,0,X,,,,,,,
-Animal Friendship,1,X,,X,,X,,,
-Bane,1,X,X,,,,,,
-Charm Person,1,X,,X,,,X,X,X
-Comprehend Languages,1,X,,,,,X,X,X
-Cure Wounds,1,X,X,X,X,X,,,
-Detect Magic,1,X,X,X,X,X,X,,X
-Disguise Self,1,X,,,,,X,,X
-Dissonant Whispers,1,X,,,,,,,
-Faerie Fire,1,X,,X,,,,,
-Feather Fall,1,X,,,,,X,,X
-Healing Word,1,X,X,X,,,,,
-Heroism,1,X,,,X,,,,
-Identify,1,X,,,,,,,X
-Illusory Script,1,X,,,,,,X,X
-Longstrider,1,X,,X,,X,,,X
-Silent Image,1,X,,,,,X,,X
-Sleep,1,X,,,,,X,,X
-Speak with Animals,1,X,,X,,X,,,
-Tasha’s Hideous Laughter,1,X,,,,,,,X
-Thunderwave,1,X,,X,,,X,,X
-Unseen Servant,1,X,,,,,,X,X
-Animal Messenger,2,X,,X,,X,,,
-Blindness/Deafness,2,X,X,,,,X,,X
-Calm Emotions,2,X,X,,,,,,
-Cloud of Daggers,2,X,,,,,X,X,X
-Crown of Madness,2,X,,,,,X,X,X
-Detect Thoughts,2,X,,,,,X,,X
-Enhance Ability,2,X,X,X,,,X,,
-Enthrall,2,X,,,,,,X,
-Heat Metal,2,X,,X,,,,,
-Hold Person,2,X,X,X,,,X,X,X
-Invisibility,2,X,,,,,X,X,X
-Knock,2,X,,,,,X,,X
-Lesser Restoration,2,X,X,X,X,X,,,
-Locate Animals or Plants,2,X,,X,,X,,,
-Locate Object,2,X,X,X,X,X,,,X
-Magic Mouth,2,X,,,,,,,X
-Phantasmal Force,2,X,,,,,X,,X
-See Invisibility,2,X,,,,,X,,X
-Shatter,2,X,,,,,X,X,X
-Silence,2,X,X,,,X,,,
-Suggestion,2,X,,,,,X,X,X
-Zone of Truth,2,X,X,,X,,,,
-Bestow Curse,3,X,X,,,,,,X
-Clairvoyance,3,X,X,,,,X,,X
-Dispel Magic,3,X,X,X,X,,X,X,X
-Fear,3,X,,,,,X,X,X
-Feign Death,3,X,X,X,,,,,X
-Glyph of Warding,3,X,X,,,,,,X
-Hypnotic Pattern,3,X,,,,,X,X,X
-Leomund’s Tiny Hut,3,X,,,,,,,X
-Major Image,3,X,,,,,X,X,X
-Nondetection,3,X,,,,X,,,X
-Plant Growth,3,X,,X,,X,,,
-Sending,3,X,X,,,,,,X
-Speak with Dead,3,X,X,,,,,,
-Speak with Plants,3,X,,X,,X,,,
-Stinking Cloud,3,X,,,,,X,,X
-Tongues,3,X,X,,,,X,X,X
-Compulsion,4,X,,,,,,,
-Confusion,4,X,,X,,,X,,X
-Dimension Door,4,X,,,,,X,X,X
-Freedom of Movement,4,X,X,X,,X,,,
-Greater Invisibility,4,X,,,,,X,,X
-Hallucinatory Terrain,4,X,,X,,,,X,X
-Locate Creature,4,X,X,X,X,X,,,X
-Polymorph,4,X,,X,,,X,,X
-Animate Objects,5,X,,,,,X,,X
-Awaken,5,X,,X,,,,,
-Dominate Person,5,X,,,,,X,,X
-Dream,5,X,,,,,,X,X
-Geas,5,X,X,X,X,,,,X
-Greater Restoration,5,X,X,X,,,,,
-Hold Monster,5,X,,,,,X,X,X
-Legend Lore,5,X,X,,,,,,X
-Mass Cure Wounds,5,X,X,X,,,,,
-Mislead,5,X,,,,,,,X
-Modify Memory,5,X,,,,,,,X
-Planar Binding,5,X,X,X,,,,,X
-Raise Dead,5,X,X,,X,,,,
-Scrying,5,X,X,X,,,,X,X
-Seeming,5,X,,,,,X,,X
-Teleportation Circle,5,X,,,,,X,,X
-Eyebite,6,X,,,,,X,X,X
-Find the Path,6,X,X,X,,,,,
-Guards and Wards,6,X,,,,,,,X
-Mass Suggestion,6,X,,,,,X,X,X
-Otto’s Irresistible Dance,6,X,,,,,,,X
-Programmed Illusion,6,X,,,,,,,X
-True Seeing,6,X,X,,,,X,X,X
-Etherealness,7,X,X,,,,X,X,X
-Forcecage,7,X,,,,,,X,X
-Mirage Arcane,7,X,,X,,,,,X
-Mordenkainen’s Magnificent Mansion,7,X,,,,,,,X
-Mordenkainen’s Sword,7,X,,,,,,,X
-Project Image,7,X,,,,,,,X
-Regenerate,7,X,X,X,,,,,
-Resurrection,7,X,X,,,,,,
-Symbol,7,X,X,,,,,,X
-Teleport,7,X,,,,,X,,X
-Dominate Monster,8,X,,,,,X,X,X
-Feeblemind,8,X,,X,,,,X,X
-Glibness,8,X,,,,,,X,
-Mind Blank,8,X,,,,,,,X
-Power Word Stun,8,X,,,,,X,X,X
-Foresight,9,X,,X,,,,X,X
-Power Word Heal,9,X,,,,,,,
-Power Word Kill,9,X,,,,,X,X,X
-True Polymorph,9,X,,,,,,X,X
-Guidance,0,,X,X,,,,,
-Resistance,0,,X,X,,,,,
-Sacred Flame,0,,X,,,,,,
-Spare the Dying,0,,X,,,,,,
-Thaumaturgy,0,,X,,,,,,
-Bless,1,,X,,X,,,,
-Command,1,,X,,X,,,,
-Create or Destroy Water,1,,X,X,,,,,
-Detect Evil and Good,1,,X,,X,,,,
-Detect Poison and Disease,1,,X,X,X,X,,,
-Guiding Bolt,1,,X,,,,,,
-Inflict Wounds,1,,X,,,,,,
-Protection from Evil and Good,1,,X,,X,,,X,X
-Purify Food and Drink,1,,X,X,X,,,,
-Sanctuary,1,,X,,,,,,
-Shield of Faith,1,,X,,X,,,,
-Aid,2,,X,,X,,,,
-Augury,2,,X,,,,,,
-Continual Flame,2,,X,,,,,,X
-Find Traps,2,,X,X,,X,,,
-Gentle Repose,2,,X,,,,,,X
-Prayer of Healing,2,,X,,,,,,
-Protection from Poison,2,,X,X,X,X,,,
-Spiritual Weapon,2,,X,,,,,,
-Warding Bond,2,,X,,,,,,
-Animate Dead,3,,X,,,,,,X
-Beacon of Hope,3,,X,,,,,,
-Create Food and Water,3,,X,,X,,,,
-Daylight,3,,X,X,X,X,X,,
-Magic Circle,3,,X,,X,,,X,X
-Mass Healing Word,3,,X,,,,,,
-Meld into Stone,3,,X,X,,,,,
-Protection from Energy,3,,X,X,,X,X,,X
-Remove Curse,3,,X,,X,,,X,X
-Revivify,3,,X,,X,,,,
-Spirit Guardians,3,,X,,,,,,
-Water Walk,3,,X,X,,X,X,,
-Banishment,4,,X,,X,,X,X,X
-Control Water,4,,X,X,,,,,X
-Death Ward,4,,X,,X,,,,
-Divination,4,,X,,,,,,
-Guardian of Faith,4,,X,,,,,,
-Stone Shape,4,,X,X,,,,,X
-Commune,5,,X,,,,,,
-Contagion,5,,X,X,,,,,
-Dispel Evil and Good,5,,X,,X,,,,
-Flame Strike,5,,X,,,,,,
-Hallow,5,,X,,,,,,
-Insect Plague,5,,X,X,,,X,,
-Blade Barrier,6,,X,,,,,,
-Create Undead,6,,X,,,,,X,X
-Forbiddance,6,,X,,,,,,
-Harm,6,,X,,,,,,
-Heal,6,,X,X,,,,,
-Heroes’ Feast,6,,X,X,,,,,
-Planar Ally,6,,X,,,,,,
-Word of Recall,6,,X,,,,,,
-Conjure Celestial,7,,X,,,,,,
-Divine Word,7,,X,,,,,,
-Fire Storm,7,,X,X,,,X,,
-Plane Shift,7,,X,X,,,X,X,X
-Antimagic Field,8,,X,,,,,,X
-Control Weather,8,,X,X,,,,,X
-Earthquake,8,,X,X,,,X,,
-Holy Aura,8,,X,,,,,,
-Astral Projection,9,,X,,,,,X,X
-Gate,9,,X,,,,X,,X
-Mass Heal,9,,X,,,,,,
-True Resurrection,9,,X,X,,,,,
-Druidcraft,0,,,X,,,,,
-Poison Spray,0,,,X,,,X,X,X
-Produce Flame,0,,,X,,,,,
-Shillelagh,0,,,X,,,,,
-Thorn Whip,0,,,X,,,,,
-Entangle,1,,,X,,,,,
-Fog Cloud,1,,,X,,X,X,,X
-Goodberry,1,,,X,,X,,,
-Jump,1,,,X,,X,X,,X
-Barkskin,2,,,X,,X,,,
-Beast Sense,2,,,X,,X,,,
-Darkvision,2,,,X,,X,X,,X
-Flame Blade,2,,,X,,,,,
-Flaming Sphere,2,,,X,,,,,X
-Gust of Wind,2,,,X,,,X,,X
-Moonbeam,2,,,X,,,,,
-Pass without Trace,2,,,X,,X,,,
-Spike Growth,2,,,X,,X,,,
-Call Lightning,3,,,X,,,,,
-Conjure Animals,3,,,X,,X,,,
-Sleet Storm,3,,,X,,,X,,X
-Water Breathing,3,,,X,,X,X,,X
-Wind Wall,3,,,X,,X,,,
-Blight,4,,,X,,,X,X,X
-Conjure Minor Elementals,4,,,X,,,,,X
-Conjure Woodland Beings,4,,,X,,X,,,
-Dominate Beast,4,,,X,,,X,,
-Giant Insect,4,,,X,,,,,
-Grasping Vine,4,,,X,,X,,,
-Ice Storm,4,,,X,,,X,,X
-Stoneskin,4,,,X,,X,X,,X
-Wall of Fire,4,,,X,,,X,,X
-Antilife Shell,5,,,X,,,,,
-Commune with Nature,5,,,X,,X,,,
-Conjure Elemental,5,,,X,,,,,X
-Reincarnate,5,,,X,,,,,
-Tree Stride,5,,,X,,X,,,
-Wall of Stone,5,,,X,,,X,,X
-Conjure Fey,6,,,X,,,,X,
-Move Earth,6,,,X,,,X,,X
-Sunbeam,6,,,X,,,X,,X
-Transport via Plants,6,,,X,,,,,
-Wall of Thorns,6,,,X,,,,,
-Wind Walk,6,,,X,,,,,
-Reverse Gravity,7,,,X,,,X,,X
-Animal Shapes,8,,,X,,,,,
-Antipathy/Sympathy,8,,,X,,,,,X
-Sunburst,8,,,X,,,X,,X
-Tsunami,8,,,X,,,,,
-Shapechange,9,,,X,,,,,X
-Storm of Vengeance,9,,,X,,,,,
-Compelled Duel,1,,,,X,,,,
-Divine Favor,1,,,,X,,,,
-Searing Smite,1,,,,X,,,,
-Thunderous Smite,1,,,,X,,,,
-Wrathful Smite,1,,,,X,,,,
-Branding Smite,2,,,,X,,,,
-Find Steed,2,,,,X,,,,
-Magic Weapon,2,,,,X,,,,X
-Aura of Vitality,3,,,,X,,,,
-Blinding Smite,3,,,,X,,,,
-Crusader’s Mantle,3,,,,X,,,,
-Elemental Weapon,3,,,,X,,,,
-Aura of Life,4,,,,X,,,,
-Aura of Purity,4,,,,X,,,,
-Staggering Smite,4,,,,X,,,,
-Banishing Smite,5,,,,X,,,,
-Circle of Power,5,,,,X,,,,
-Destructive Wave,5,,,,X,,,,
-Alarm,1,,,,,X,,,X
-Ensnaring Strike,1,,,,,X,,,
-Hail of Thorns,1,,,,,X,,,
-Hunter’s Mark,1,,,,,X,,,
-Cordon of Arrows,2,,,,,X,,,
-Conjure Barrage,3,,,,,X,,,
-Lightning Arrow,3,,,,,X,,,
-Conjure Volley,5,,,,,X,,,
-Swift Quiver,5,,,,,X,,,
-Acid Splash,0,,,,,,X,,X
-Chill Touch,0,,,,,,X,X,X
-Fire Bolt,0,,,,,,X,,X
-Ray of Frost,0,,,,,,X,,X
-Shocking Grasp,0,,,,,,X,,X
-Burning Hands,1,,,,,,X,,X
-Chromatic Orb,1,,,,,,X,,X
-Color Spray,1,,,,,,X,,X
-Expeditious Retreat,1,,,,,,X,X,X
-False Life,1,,,,,,X,,X
-Mage Armor,1,,,,,,X,,X
-Magic Missile,1,,,,,,X,,X
-Ray of Sickness,1,,,,,,X,,X
-Shield,1,,,,,,X,,X
-Witch Bolt,1,,,,,,X,X,X
-Alter Self,2,,,,,,X,,X
-Blur,2,,,,,,X,,X
-Darkness,2,,,,,,X,X,X
-Enlarge/Reduce,2,,,,,,X,,X
-Levitate,2,,,,,,X,,X
-Mirror Image,2,,,,,,X,X,X
-Misty Step,2,,,,,,X,X,X
-Scorching Ray,2,,,,,,X,,X
-Spider Climb,2,,,,,,X,X,X
-Web,2,,,,,,X,,X
-Blink,3,,,,,,X,,X
-Counterspell,3,,,,,,X,X,X
-Fireball,3,,,,,,X,,X
-Fly,3,,,,,,X,X,X
-Gaseous Form,3,,,,,,X,X,X
-Haste,3,,,,,,X,,X
-Lightning Bolt,3,,,,,,X,,X
-Slow,3,,,,,,X,,X
-Cloudkill,5,,,,,,X,,X
-Cone of Cold,5,,,,,,X,,X
-Creation,5,,,,,,X,,X
-Telekinesis,5,,,,,,X,,X
-Arcane Gate,6,,,,,,X,X,X
-Chain Lightning,6,,,,,,X,,X
-Circle of Death,6,,,,,,X,X,X
-Disintegrate,6,,,,,,X,,X
-Globe of Invulnerability,6,,,,,,X,,X
-Delayed Blast Fireball,7,,,,,,X,,X
-Finger of Death,7,,,,,,X,X,X
-Prismatic Spray,7,,,,,,X,,X
-Incendiary Cloud,8,,,,,,X,,X
-Meteor Swarm,9,,,,,,X,,X
-Time Stop,9,,,,,,X,,X
-Wish,9,,,,,,X,,X
-Eldritch Blast,0,,,,,,,X,
-Armor of Agathys,1,,,,,,,X,
-Arms of Hadar,1,,,,,,,X,
-Hellish Rebuke,1,,,,,,,X,
-Hex,1,,,,,,,X,
-Ray of Enfeeblement,2,,,,,,,X,X
-Hunger of Hadar,3,,,,,,,X,
-Vampiric Touch,3,,,,,,,X,X
-Contact Other Plane,5,,,,,,,X,X
-Flesh to Stone,6,,,,,,,X,X
-Demiplane,8,,,,,,,X,X
-Imprisonment,9,,,,,,,X,X
-Find Familiar,1,,,,,,,,X
-Grease,1,,,,,,,,X
-Tenser’s Floating Disk,1,,,,,,,,X
-Arcane Lock,2,,,,,,,,X
-Melf’s Acid Arrow,2,,,,,,,,X
-Nystul’s Magic Aura,2,,,,,,,,X
-Rope Trick,2,,,,,,,,X
-Phantom Steed,3,,,,,,,,X
-Arcane Eye,4,,,,,,,,X
-Evard’s Black Tentacles,4,,,,,,,,X
-Fabricate,4,,,,,,,,X
-Fire Shield,4,,,,,,,,X
-Leomund’s Secret Chest,4,,,,,,,,X
-Mordenkainen’s Faithful Hound,4,,,,,,,,X
-Mordenkainen’s Private Sanctum,4,,,,,,,,X
-Otiluke’s Resilient Sphere,4,,,,,,,,X
-Phantasmal Killer,4,,,,,,,,X
-Bigby’s Hand,5,,,,,,,,X
-Passwall,5,,,,,,,,X
-Rary’s Telepathic Bond,5,,,,,,,,X
-Wall of Force,5,,,,,,,,X
-Contingency,6,,,,,,,,X
-Drawmij’s Instant Summons,6,,,,,,,,X
-Magic Jar,6,,,,,,,,X
-Otiluke’s Freezing Sphere,6,,,,,,,,X
-Wall of Ice,6,,,,,,,,X
-Sequester,7,,,,,,,,X
-Simulacrum,7,,,,,,,,X
-Clone,8,,,,,,,,X
-Maze,8,,,,,,,,X
-Telepathy,8,,,,,,,,X
-Prismatic Wall,9,,,,,,,,X
-Weird,9,,,,,,,,X
+Spell,Description,Level,Damage,Type,Save,Range,Cast Time,Area,Duration,Concentration,Component,Ritual,School,Source,Artificer,Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Warlock,Wizard
+Acid Splash,,0,,,,,,,,,,,,,,,,,,,X,,X
+Aid,,2,,,,,,,,,,,,,,,X,,X,,,,
+Alarm,,1,,,,,,,,,,,,,,,,,,X,,,X
+Alter Self,,2,,,,,,,,,,,,,,,,,,,X,,X
+Animal Friendship,,1,,,,,,,,,,,,,,X,,X,,X,,,
+Animal Messenger,,2,,,,,,,,,,,,,,X,,X,,X,,,
+Animal Shapes,,8,,,,,,,,,,,,,,,,X,,,,,
+Animate Dead,,3,,,,,,,,,,,,,,,X,,,,,,X
+Animate Objects,,5,,,,,,,,,,,,,,X,,,,,X,,X
+Antilife Shell,,5,,,,,,,,,,,,,,,,X,,,,,
+Antimagic Field,,8,,,,,,,,,,,,,,,X,,,,,,X
+Antipathy/Sympathy,,8,,,,,,,,,,,,,,,,X,,,,,X
+Arcane Eye,,4,,,,,,,,,,,,,,,,,,,,,X
+Arcane Gate,,6,,,,,,,,,,,,,,,,,,,X,X,X
+Arcane Lock,,2,,,,,,,,,,,,,,,,,,,,,X
+Armor of Agathys,,1,,,,,,,,,,,,,,,,,,,,X,
+Arms of Hadar,,1,,,,,,,,,,,,,,,,,,,,X,
+Astral Projection,,9,,,,,,,,,,,,,,,X,,,,,X,X
+Augury,,2,,,,,,,,,,,,,,,X,,,,,,
+Aura of Life,,4,,,,,,,,,,,,,,,,,X,,,,
+Aura of Purity,,4,,,,,,,,,,,,,,,,,X,,,,
+Aura of Vitality,,3,,,,,,,,,,,,,,,,,X,,,,
+Awaken,,5,,,,,,,,,,,,,,X,,X,,,,,
+Bane,,1,,,,,,,,,,,,,,X,X,,,,,,
+Banishing Smite,,5,,,,,,,,,,,,,,,,,X,,,,
+Banishment,,4,,,,,,,,,,,,,,,X,,X,,X,X,X
+Barkskin,,2,,,,,,,,,,,,,,,,X,,X,,,
+Beacon of Hope,,3,,,,,,,,,,,,,,,X,,,,,,
+Beast Sense,,2,,,,,,,,,,,,,,,,X,,X,,,
+Bestow Curse,,3,,,,,,,,,,,,,,X,X,,,,,,X
+Bigby’s Hand,,5,,,,,,,,,,,,,,,,,,,,,X
+Blade Barrier,,6,,,,,,,,,,,,,,,X,,,,,,
+Blade Ward,,0,,,,,,,,,,,,,,X,,,,,X,X,X
+Bless,,1,,,,,,,,,,,,,,,X,,X,,,,
+Blight,,4,,,,,,,,,,,,,,,,X,,,X,X,X
+Blinding Smite,,3,,,,,,,,,,,,,,,,,X,,,,
+Blindness/Deafness,,2,,,,,,,,,,,,,,X,X,,,,X,,X
+Blink,,3,,,,,,,,,,,,,,,,,,,X,,X
+Blur,,2,,,,,,,,,,,,,,,,,,,X,,X
+Branding Smite,,2,,,,,,,,,,,,,,,,,X,,,,
+Burning Hands,,1,,,,,,,,,,,,,,,,,,,X,,X
+Call Lightning,,3,,,,,,,,,,,,,,,,X,,,,,
+Calm Emotions,,2,,,,,,,,,,,,,,X,X,,,,,,
+Chain Lightning,,6,,,,,,,,,,,,,,,,,,,X,,X
+Charm Person,,1,,,,,,,,,,,,,,X,,X,,,X,X,X
+Chill Touch,,0,,,,,,,,,,,,,,,,,,,X,X,X
+Chromatic Orb,,1,,,,,,,,,,,,,,,,,,,X,,X
+Circle of Death,,6,,,,,,,,,,,,,,,,,,,X,X,X
+Circle of Power,,5,,,,,,,,,,,,,,,,,X,,,,
+Clairvoyance,,3,,,,,,,,,,,,,,X,X,,,,X,,X
+Clone,,8,,,,,,,,,,,,,,,,,,,,,X
+Cloud of Daggers,,2,,,,,,,,,,,,,,X,,,,,X,X,X
+Cloudkill,,5,,,,,,,,,,,,,,,,,,,X,,X
+Color Spray,,1,,,,,,,,,,,,,,,,,,,X,,X
+Command,,1,,,,,,,,,,,,,,,X,,X,,,,
+Commune,,5,,,,,,,,,,,,,,,X,,,,,,
+Commune with Nature,,5,,,,,,,,,,,,,,,,X,,X,,,
+Compelled Duel,,1,,,,,,,,,,,,,,,,,X,,,,
+Comprehend Languages,,1,,,,,,,,,,,,,,X,,,,,X,X,X
+Compulsion,,4,,,,,,,,,,,,,,X,,,,,,,
+Cone of Cold,,5,,,,,,,,,,,,,,,,,,,X,,X
+Confusion,,4,,,,,,,,,,,,,,X,,X,,,X,,X
+Conjure Animals,,3,,,,,,,,,,,,,,,,X,,X,,,
+Conjure Barrage,,3,,,,,,,,,,,,,,,,,,X,,,
+Conjure Celestial,,7,,,,,,,,,,,,,,,X,,,,,,
+Conjure Elemental,,5,,,,,,,,,,,,,,,,X,,,,,X
+Conjure Fey,,6,,,,,,,,,,,,,,,,X,,,,X,
+Conjure Minor Elementals,,4,,,,,,,,,,,,,,,,X,,,,,X
+Conjure Volley,,5,,,,,,,,,,,,,,,,,,X,,,
+Conjure Woodland Beings,,4,,,,,,,,,,,,,,,,X,,X,,,
+Contact Other Plane,,5,,,,,,,,,,,,,,,,,,,,X,X
+Contagion,,5,,,,,,,,,,,,,,,X,X,,,,,
+Contingency,,6,,,,,,,,,,,,,,,,,,,,,X
+Continual Flame,,2,,,,,,,,,,,,,,,X,,,,,,X
+Control Water,,4,,,,,,,,,,,,,,,X,X,,,,,X
+Control Weather,,8,,,,,,,,,,,,,,,X,X,,,,,X
+Cordon of Arrows,,2,,,,,,,,,,,,,,,,,,X,,,
+Counterspell,,3,,,,,,,,,,,,,,,,,,,X,X,X
+Create Food and Water,,3,,,,,,,,,,,,,,,X,,X,,,,
+Create Undead,,6,,,,,,,,,,,,,,,X,,,,,X,X
+Create or Destroy Water,,1,,,,,,,,,,,,,,,X,X,,,,,
+Creation,,5,,,,,,,,,,,,,,,,,,,X,,X
+Crown of Madness,,2,,,,,,,,,,,,,,X,,,,,X,X,X
+Crusader’s Mantle,,3,,,,,,,,,,,,,,,,,X,,,,
+Cure Wounds,,1,,,,,,,,,,,,,,X,X,X,X,X,,,
+Dancing Lights,,0,,,,,,,,,,,,,,X,,,,,X,,X
+Darkness,,2,,,,,,,,,,,,,,,,,,,X,X,X
+Darkvision,,2,,,,,,,,,,,,,,,,X,,X,X,,X
+Daylight,,3,,,,,,,,,,,,,,,X,X,X,X,X,,
+Death Ward,,4,,,,,,,,,,,,,,,X,,X,,,,
+Delayed Blast Fireball,,7,,,,,,,,,,,,,,,,,,,X,,X
+Demiplane,,8,,,,,,,,,,,,,,,,,,,,X,X
+Destructive Wave,,5,,,,,,,,,,,,,,,,,X,,,,
+Detect Evil and Good,,1,,,,,,,,,,,,,,,X,,X,,,,
+Detect Magic,,1,,,,,,,,,,,,,,X,X,X,X,X,X,,X
+Detect Poison and Disease,,1,,,,,,,,,,,,,,,X,X,X,X,,,
+Detect Thoughts,,2,,,,,,,,,,,,,,X,,,,,X,,X
+Dimension Door,,4,,,,,,,,,,,,,,X,,,,,X,X,X
+Disguise Self,,1,,,,,,,,,,,,,,X,,,,,X,,X
+Disintegrate,,6,,,,,,,,,,,,,,,,,,,X,,X
+Dispel Evil and Good,,5,,,,,,,,,,,,,,,X,,X,,,,
+Dispel Magic,,3,,,,,,,,,,,,,,X,X,X,X,,X,X,X
+Dissonant Whispers,,1,,,,,,,,,,,,,,X,,,,,,,
+Divination,,4,,,,,,,,,,,,,,,X,,,,,,
+Divine Favor,,1,,,,,,,,,,,,,,,,,X,,,,
+Divine Word,,7,,,,,,,,,,,,,,,X,,,,,,
+Dominate Beast,,4,,,,,,,,,,,,,,,,X,,,X,,
+Dominate Monster,,8,,,,,,,,,,,,,,X,,,,,X,X,X
+Dominate Person,,5,,,,,,,,,,,,,,X,,,,,X,,X
+Drawmij’s Instant Summons,,6,,,,,,,,,,,,,,,,,,,,,X
+Dream,,5,,,,,,,,,,,,,,X,,,,,,X,X
+Druidcraft,,0,,,,,,,,,,,,,,,,X,,,,,
+Earthquake,,8,,,,,,,,,,,,,,,X,X,,,X,,
+Eldritch Blast,,0,,,,,,,,,,,,,,,,,,,,X,
+Elemental Weapon,,3,,,,,,,,,,,,,,,,,X,,,,
+Enhance Ability,,2,,,,,,,,,,,,,,X,X,X,,,X,,
+Enlarge/Reduce,,2,,,,,,,,,,,,,,,,,,,X,,X
+Ensnaring Strike,,1,,,,,,,,,,,,,,,,,,X,,,
+Entangle,,1,,,,,,,,,,,,,,,,X,,,,,
+Enthrall,,2,,,,,,,,,,,,,,X,,,,,,X,
+Etherealness,,7,,,,,,,,,,,,,,X,X,,,,X,X,X
+Evard’s Black Tentacles,,4,,,,,,,,,,,,,,,,,,,,,X
+Expeditious Retreat,,1,,,,,,,,,,,,,,,,,,,X,X,X
+Eyebite,,6,,,,,,,,,,,,,,X,,,,,X,X,X
+Fabricate,,4,,,,,,,,,,,,,,,,,,,,,X
+Faerie Fire,,1,,,,,,,,,,,,,,X,,X,,,,,
+False Life,,1,,,,,,,,,,,,,,,,,,,X,,X
+Fear,,3,,,,,,,,,,,,,,X,,,,,X,X,X
+Feather Fall,,1,,,,,,,,,,,,,,X,,,,,X,,X
+Feeblemind,,8,,,,,,,,,,,,,,X,,X,,,,X,X
+Feign Death,,3,,,,,,,,,,,,,,X,X,X,,,,,X
+Find Familiar,,1,,,,,,,,,,,,,,,,,,,,,X
+Find Steed,,2,,,,,,,,,,,,,,,,,X,,,,
+Find Traps,,2,,,,,,,,,,,,,,,X,X,,X,,,
+Find the Path,,6,,,,,,,,,,,,,,X,X,X,,,,,
+Finger of Death,,7,,,,,,,,,,,,,,,,,,,X,X,X
+Fire Bolt,,0,,,,,,,,,,,,,,,,,,,X,,X
+Fire Shield,,4,,,,,,,,,,,,,,,,,,,,,X
+Fire Storm,,7,,,,,,,,,,,,,,,X,X,,,X,,
+Fireball,,3,,,,,,,,,,,,,,,,,,,X,,X
+Flame Blade,,2,,,,,,,,,,,,,,,,X,,,,,
+Flame Strike,,5,,,,,,,,,,,,,,,X,,,,,,
+Flaming Sphere,,2,,,,,,,,,,,,,,,,X,,,,,X
+Flesh to Stone,,6,,,,,,,,,,,,,,,,,,,,X,X
+Fly,,3,,,,,,,,,,,,,,,,,,,X,X,X
+Fog Cloud,,1,,,,,,,,,,,,,,,,X,,X,X,,X
+Forbiddance,,6,,,,,,,,,,,,,,,X,,,,,,
+Forcecage,,7,,,,,,,,,,,,,,X,,,,,,X,X
+Foresight,,9,,,,,,,,,,,,,,X,,X,,,,X,X
+Freedom of Movement,,4,,,,,,,,,,,,,,X,X,X,,X,,,
+Friends,,0,,,,,,,,,,,,,,X,,,,,X,X,X
+Gaseous Form,,3,,,,,,,,,,,,,,,,,,,X,X,X
+Gate,,9,,,,,,,,,,,,,,,X,,,,X,,X
+Geas,,5,,,,,,,,,,,,,,X,X,X,X,,,,X
+Gentle Repose,,2,,,,,,,,,,,,,,,X,,,,,,X
+Giant Insect,,4,,,,,,,,,,,,,,,,X,,,,,
+Glibness,,8,,,,,,,,,,,,,,X,,,,,,X,
+Globe of Invulnerability,,6,,,,,,,,,,,,,,,,,,,X,,X
+Glyph of Warding,,3,,,,,,,,,,,,,,X,X,,,,,,X
+Goodberry,,1,,,,,,,,,,,,,,,,X,,X,,,
+Grasping Vine,,4,,,,,,,,,,,,,,,,X,,X,,,
+Grease,,1,,,,,,,,,,,,,,,,,,,,,X
+Greater Invisibility,,4,,,,,,,,,,,,,,X,,,,,X,,X
+Greater Restoration,,5,,,,,,,,,,,,,,X,X,X,,,,,
+Guardian of Faith,,4,,,,,,,,,,,,,,,X,,,,,,
+Guards and Wards,,6,,,,,,,,,,,,,,X,,,,,,,X
+Guidance,,0,,,,,,,,,,,,,,,X,X,,,,,
+Guiding Bolt,,1,,,,,,,,,,,,,,,X,,,,,,
+Gust of Wind,,2,,,,,,,,,,,,,,,,X,,,X,,X
+Hail of Thorns,,1,,,,,,,,,,,,,,,,,,X,,,
+Hallow,,5,,,,,,,,,,,,,,,X,,,,,,
+Hallucinatory Terrain,,4,,,,,,,,,,,,,,X,,X,,,,X,X
+Harm,,6,,,,,,,,,,,,,,,X,,,,,,
+Haste,,3,,,,,,,,,,,,,,,,,,,X,,X
+Heal,,6,,,,,,,,,,,,,,,X,X,,,,,
+Healing Word,,1,,,,,,,,,,,,,,X,X,X,,,,,
+Heat Metal,,2,,,,,,,,,,,,,,X,,X,,,,,
+Hellish Rebuke,,1,,,,,,,,,,,,,,,,,,,,X,
+Heroes’ Feast,,6,,,,,,,,,,,,,,,X,X,,,,,
+Heroism,,1,,,,,,,,,,,,,,X,,,X,,,,
+Hex,,1,,,,,,,,,,,,,,,,,,,,X,
+Hold Monster,,5,,,,,,,,,,,,,,X,,,,,X,X,X
+Hold Person,,2,,,,,,,,,,,,,,X,X,X,,,X,X,X
+Holy Aura,,8,,,,,,,,,,,,,,,X,,,,,,
+Hunger of Hadar,,3,,,,,,,,,,,,,,,,,,,,X,
+Hunter’s Mark,,1,,,,,,,,,,,,,,,,,,X,,,
+Hypnotic Pattern,,3,,,,,,,,,,,,,,X,,,,,X,X,X
+Ice Storm,,4,,,,,,,,,,,,,,,,X,,,X,,X
+Identify,,1,,,,,,,,,,,,,,X,,,,,,,X
+Illusory Script,,1,,,,,,,,,,,,,,X,,,,,,X,X
+Imprisonment,,9,,,,,,,,,,,,,,,,,,,,X,X
+Incendiary Cloud,,8,,,,,,,,,,,,,,,,,,,X,,X
+Inflict Wounds,,1,,,,,,,,,,,,,,,X,,,,,,
+Insect Plague,,5,,,,,,,,,,,,,,,X,X,,,X,,
+Invisibility,,2,,,,,,,,,,,,,,X,,,,,X,X,X
+Jump,,1,,,,,,,,,,,,,,,,X,,X,X,,X
+Knock,,2,,,,,,,,,,,,,,X,,,,,X,,X
+Legend Lore,,5,,,,,,,,,,,,,,X,X,,,,,,X
+Leomund’s Secret Chest,,4,,,,,,,,,,,,,,,,,,,,,X
+Leomund’s Tiny Hut,,3,,,,,,,,,,,,,,X,,,,,,,X
+Lesser Restoration,,2,,,,,,,,,,,,,,X,X,X,X,X,,,
+Levitate,,2,,,,,,,,,,,,,,,,,,,X,,X
+Light,,0,,,,,,,,,,,,,,X,X,,,,X,,X
+Lightning Arrow,,3,,,,,,,,,,,,,,,,,,X,,,
+Lightning Bolt,,3,,,,,,,,,,,,,,,,,,,X,,X
+Locate Animals or Plants,,2,,,,,,,,,,,,,,X,,X,,X,,,
+Locate Creature,,4,,,,,,,,,,,,,,X,X,X,X,X,,,X
+Locate Object,,2,,,,,,,,,,,,,,X,X,X,X,X,,,X
+Longstrider,,1,,,,,,,,,,,,,,X,,X,,X,,,X
+Mage Armor,,1,,,,,,,,,,,,,,,,,,,X,,X
+Mage Hand,,0,,,,,,,,,,,,,,X,,,,,X,X,X
+Magic Circle,,3,,,,,,,,,,,,,,,X,,X,,,X,X
+Magic Jar,,6,,,,,,,,,,,,,,,,,,,,,X
+Magic Missile,,1,,,,,,,,,,,,,,,,,,,X,,X
+Magic Mouth,,2,,,,,,,,,,,,,,X,,,,,,,X
+Magic Weapon,,2,,,,,,,,,,,,,,,,,X,,,,X
+Major Image,,3,,,,,,,,,,,,,,X,,,,,X,X,X
+Mass Cure Wounds,,5,,,,,,,,,,,,,,X,X,X,,,,,
+Mass Heal,,9,,,,,,,,,,,,,,,X,,,,,,
+Mass Healing Word,,3,,,,,,,,,,,,,,,X,,,,,,
+Mass Suggestion,,6,,,,,,,,,,,,,,X,,,,,X,X,X
+Maze,,8,,,,,,,,,,,,,,,,,,,,,X
+Meld into Stone,,3,,,,,,,,,,,,,,,X,X,,,,,
+Melf’s Acid Arrow,,2,,,,,,,,,,,,,,,,,,,,,X
+Mending,,0,,,,,,,,,,,,,,X,X,X,,,X,,X
+Message,,0,,,,,,,,,,,,,,X,,,,,X,,X
+Meteor Swarm,,9,,,,,,,,,,,,,,,,,,,X,,X
+Mind Blank,,8,,,,,,,,,,,,,,X,,,,,,,X
+Minor Illusion,,0,,,,,,,,,,,,,,X,,,,,X,X,X
+Mirage Arcane,,7,,,,,,,,,,,,,,X,,X,,,,,X
+Mirror Image,,2,,,,,,,,,,,,,,,,,,,X,X,X
+Mislead,,5,,,,,,,,,,,,,,X,,,,,,,X
+Misty Step,,2,,,,,,,,,,,,,,,,,,,X,X,X
+Modify Memory,,5,,,,,,,,,,,,,,X,,,,,,,X
+Moonbeam,,2,,,,,,,,,,,,,,,,X,,,,,
+Mordenkainen’s Faithful Hound,,4,,,,,,,,,,,,,,,,,,,,,X
+Mordenkainen’s Magnificent Mansion,,7,,,,,,,,,,,,,,X,,,,,,,X
+Mordenkainen’s Private Sanctum,,4,,,,,,,,,,,,,,,,,,,,,X
+Mordenkainen’s Sword,,7,,,,,,,,,,,,,,X,,,,,,,X
+Move Earth,,6,,,,,,,,,,,,,,,,X,,,X,,X
+Nondetection,,3,,,,,,,,,,,,,,X,,,,X,,,X
+Nystul’s Magic Aura,,2,,,,,,,,,,,,,,,,,,,,,X
+Otiluke’s Freezing Sphere,,6,,,,,,,,,,,,,,,,,,,,,X
+Otiluke’s Resilient Sphere,,4,,,,,,,,,,,,,,,,,,,,,X
+Otto’s Irresistible Dance,,6,,,,,,,,,,,,,,X,,,,,,,X
+Pass without Trace,,2,,,,,,,,,,,,,,,,X,,X,,,
+Passwall,,5,,,,,,,,,,,,,,,,,,,,,X
+Phantasmal Force,,2,,,,,,,,,,,,,,X,,,,,X,,X
+Phantasmal Killer,,4,,,,,,,,,,,,,,,,,,,,,X
+Phantom Steed,,3,,,,,,,,,,,,,,,,,,,,,X
+Planar Ally,,6,,,,,,,,,,,,,,,X,,,,,,
+Planar Binding,,5,,,,,,,,,,,,,,X,X,X,,,,,X
+Plane Shift,,7,,,,,,,,,,,,,,,X,X,,,X,X,X
+Plant Growth,,3,,,,,,,,,,,,,,X,,X,,X,,,
+Poison Spray,,0,,,,,,,,,,,,,,,,X,,,X,X,X
+Polymorph,,4,,,,,,,,,,,,,,X,,X,,,X,,X
+Power Word Heal,,9,,,,,,,,,,,,,,X,,,,,,,
+Power Word Kill,,9,,,,,,,,,,,,,,X,,,,,X,X,X
+Power Word Stun,,8,,,,,,,,,,,,,,X,,,,,X,X,X
+Prayer of Healing,,2,,,,,,,,,,,,,,,X,,,,,,
+Prestidigitation,,0,,,,,,,,,,,,,,X,,,,,X,X,X
+Prismatic Spray,,7,,,,,,,,,,,,,,,,,,,X,,X
+Prismatic Wall,,9,,,,,,,,,,,,,,,,,,,,,X
+Produce Flame,,0,,,,,,,,,,,,,,,,X,,,,,
+Programmed Illusion,,6,,,,,,,,,,,,,,X,,,,,,,X
+Project Image,,7,,,,,,,,,,,,,,X,,,,,,,X
+Protection from Energy,,3,,,,,,,,,,,,,,,X,X,,X,X,,X
+Protection from Evil and Good,,1,,,,,,,,,,,,,,,X,,X,,,X,X
+Protection from Poison,,2,,,,,,,,,,,,,,,X,X,X,X,,,
+Purify Food and Drink,,1,,,,,,,,,,,,,,,X,X,X,,,,
+Raise Dead,,5,,,,,,,,,,,,,,X,X,,X,,,,
+Rary’s Telepathic Bond,,5,,,,,,,,,,,,,,,,,,,,,X
+Ray of Enfeeblement,,2,,,,,,,,,,,,,,,,,,,,X,X
+Ray of Frost,,0,,,,,,,,,,,,,,,,,,,X,,X
+Ray of Sickness,,1,,,,,,,,,,,,,,,,,,,X,,X
+Regenerate,,7,,,,,,,,,,,,,,X,X,X,,,,,
+Reincarnate,,5,,,,,,,,,,,,,,,,X,,,,,
+Remove Curse,,3,,,,,,,,,,,,,,,X,,X,,,X,X
+Resistance,,0,,,,,,,,,,,,,,,X,X,,,,,
+Resurrection,,7,,,,,,,,,,,,,,X,X,,,,,,
+Reverse Gravity,,7,,,,,,,,,,,,,,,,X,,,X,,X
+Revivify,,3,,,,,,,,,,,,,,,X,,X,,,,
+Rope Trick,,2,,,,,,,,,,,,,,,,,,,,,X
+Sacred Flame,,0,,,,,,,,,,,,,,,X,,,,,,
+Sanctuary,,1,,,,,,,,,,,,,,,X,,,,,,
+Scorching Ray,,2,,,,,,,,,,,,,,,,,,,X,,X
+Scrying,,5,,,,,,,,,,,,,,X,X,X,,,,X,X
+Searing Smite,,1,,,,,,,,,,,,,,,,,X,,,,
+See Invisibility,,2,,,,,,,,,,,,,,X,,,,,X,,X
+Seeming,,5,,,,,,,,,,,,,,X,,,,,X,,X
+Sending,,3,,,,,,,,,,,,,,X,X,,,,,,X
+Sequester,,7,,,,,,,,,,,,,,,,,,,,,X
+Shapechange,,9,,,,,,,,,,,,,,,,X,,,,,X
+Shatter,,2,,,,,,,,,,,,,,X,,,,,X,X,X
+Shield,,1,,,,,,,,,,,,,,,,,,,X,,X
+Shield of Faith,,1,,,,,,,,,,,,,,,X,,X,,,,
+Shillelagh,,0,,,,,,,,,,,,,,,,X,,,,,
+Shocking Grasp,,0,,,,,,,,,,,,,,,,,,,X,,X
+Silence,,2,,,,,,,,,,,,,,X,X,,,X,,,
+Silent Image,,1,,,,,,,,,,,,,,X,,,,,X,,X
+Simulacrum,,7,,,,,,,,,,,,,,,,,,,,,X
+Sleep,,1,,,,,,,,,,,,,,X,,,,,X,,X
+Sleet Storm,,3,,,,,,,,,,,,,,,,X,,,X,,X
+Slow,,3,,,,,,,,,,,,,,,,,,,X,,X
+Spare the Dying,,0,,,,,,,,,,,,,,,X,,,,,,
+Speak with Animals,,1,,,,,,,,,,,,,,X,,X,,X,,,
+Speak with Dead,,3,,,,,,,,,,,,,,X,X,,,,,,
+Speak with Plants,,3,,,,,,,,,,,,,,X,,X,,X,,,
+Spider Climb,,2,,,,,,,,,,,,,,,,,,,X,X,X
+Spike Growth,,2,,,,,,,,,,,,,,,,X,,X,,,
+Spirit Guardians,,3,,,,,,,,,,,,,,,X,,,,,,
+Spiritual Weapon,,2,,,,,,,,,,,,,,,X,,,,,,
+Staggering Smite,,4,,,,,,,,,,,,,,,,,X,,,,
+Stinking Cloud,,3,,,,,,,,,,,,,,X,,,,,X,,X
+Stone Shape,,4,,,,,,,,,,,,,,,X,X,,,,,X
+Stoneskin,,4,,,,,,,,,,,,,,,,X,,X,X,,X
+Storm of Vengeance,,9,,,,,,,,,,,,,,,,X,,,,,
+Suggestion,,2,,,,,,,,,,,,,,X,,,,,X,X,X
+Sunbeam,,6,,,,,,,,,,,,,,,,X,,,X,,X
+Sunburst,,8,,,,,,,,,,,,,,,,X,,,X,,X
+Swift Quiver,,5,,,,,,,,,,,,,,,,,,X,,,
+Symbol,,7,,,,,,,,,,,,,,X,X,,,,,,X
+Tasha’s Hideous Laughter,,1,,,,,,,,,,,,,,X,,,,,,,X
+Telekinesis,,5,,,,,,,,,,,,,,,,,,,X,,X
+Telepathy,,8,,,,,,,,,,,,,,,,,,,,,X
+Teleport,,7,,,,,,,,,,,,,,X,,,,,X,,X
+Teleportation Circle,,5,,,,,,,,,,,,,,X,,,,,X,,X
+Tenser’s Floating Disk,,1,,,,,,,,,,,,,,,,,,,,,X
+Thaumaturgy,,0,,,,,,,,,,,,,,,X,,,,,,
+Thorn Whip,,0,,,,,,,,,,,,,,,,X,,,,,
+Thunderous Smite,,1,,,,,,,,,,,,,,,,,X,,,,
+Thunderwave,,1,,,,,,,,,,,,,,X,,X,,,X,,X
+Time Stop,,9,,,,,,,,,,,,,,,,,,,X,,X
+Tongues,,3,,,,,,,,,,,,,,X,X,,,,X,X,X
+Transport via Plants,,6,,,,,,,,,,,,,,,,X,,,,,
+Tree Stride,,5,,,,,,,,,,,,,,,,X,,X,,,
+True Polymorph,,9,,,,,,,,,,,,,,X,,,,,,X,X
+True Resurrection,,9,,,,,,,,,,,,,,,X,X,,,,,
+True Seeing,,6,,,,,,,,,,,,,,X,X,,,,X,X,X
+True Strike,,0,,,,,,,,,,,,,,X,,,,,X,X,X
+Tsunami,,8,,,,,,,,,,,,,,,,X,,,,,
+Unseen Servant,,1,,,,,,,,,,,,,,X,,,,,,X,X
+Vampiric Touch,,3,,,,,,,,,,,,,,,,,,,,X,X
+Vicious Mockery,,0,,,,,,,,,,,,,,X,,,,,,,
+Wall of Fire,,4,,,,,,,,,,,,,,,,X,,,X,,X
+Wall of Force,,5,,,,,,,,,,,,,,,,,,,,,X
+Wall of Ice,,6,,,,,,,,,,,,,,,,,,,,,X
+Wall of Stone,,5,,,,,,,,,,,,,,,,X,,,X,,X
+Wall of Thorns,,6,,,,,,,,,,,,,,,,X,,,,,
+Warding Bond,,2,,,,,,,,,,,,,,,X,,,,,,
+Water Breathing,,3,,,,,,,,,,,,,,,,X,,X,X,,X
+Water Walk,,3,,,,,,,,,,,,,,,X,X,,X,X,,
+Web,,2,,,,,,,,,,,,,,,,,,,X,,X
+Weird,,9,,,,,,,,,,,,,,,,,,,,,X
+Wind Walk,,6,,,,,,,,,,,,,,,,X,,,,,
+Wind Wall,,3,,,,,,,,,,,,,,,,X,,X,,,
+Wish,,9,,,,,,,,,,,,,,,,,,,X,,X
+Witch Bolt,,1,,,,,,,,,,,,,,,,,,,X,X,X
+Word of Recall,,6,,,,,,,,,,,,,,,X,,,,,,
+Wrathful Smite,,1,,,,,,,,,,,,,,,,,X,,,,
+Zone of Truth,,2,,,,,,,,,,,,,,X,X,,X,,,,

@@ -28,7 +28,6 @@ def main(file):
                     spells[spell_list][spell_level] = []
             continue
         elif "Level" in line:
-            # Use regular expression to extract the numeric part of the level
             match = re.search(r'(\d+)', line)
             if match:
                 spell_level = int(match.group(1))  # Get the numeric level (e.g., 1, 2, 3)
@@ -47,7 +46,10 @@ def write_to_csv(spells):
     # Open the CSV file in write mode
     with open('spells.csv', 'w', newline='') as csvfile:
         # Define CSV headers
-        fieldnames = ['Name', 'Level', 'Bard', 'Cleric', 'Druid', 'Paladin', 'Ranger', 'Sorcerer', 'Warlock', 'Wizard']
+        fieldnames = ['Spell', 'Description', 'Level', 'Damage', 'Type', 'Save', 'Range', 
+                      'Cast Time', 'Area', 'Duration', 'Concentration', 'Component', 
+                      'Ritual', 'School', 'Source', 'Artificer', 'Bard', 'Cleric', 
+                      'Druid', 'Paladin', 'Ranger', 'Sorcerer', 'Warlock', 'Wizard']
         
         # Create a CSV writer object
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -63,10 +65,24 @@ def write_to_csv(spells):
             for level, spell_names in levels.items():
                 for spell_name in spell_names:
                     if spell_name not in unique_spells:
-                        # Initialize a dictionary for each spell with empty fields for classes
+                        # Initialize a dictionary for each spell with empty fields for all attributes
                         unique_spells[spell_name] = {
-                            'Name': spell_name,
+                            'Spell': spell_name,
+                            'Description': '',
                             'Level': level,
+                            'Damage': '',
+                            'Type': '',
+                            'Save': '',
+                            'Range': '',
+                            'Cast Time': '',
+                            'Area': '',
+                            'Duration': '',
+                            'Concentration': '',
+                            'Component': '',
+                            'Ritual': '',
+                            'School': '',
+                            'Source': '',
+                            'Artificer': '',
                             'Bard': '',
                             'Cleric': '',
                             'Druid': '',
@@ -80,8 +96,11 @@ def write_to_csv(spells):
                     # Mark the corresponding class with "X"
                     unique_spells[spell_name][spell_class] = 'X'
 
+        # Sort spells alphabetically by name
+        sorted_spells = sorted(unique_spells.values(), key=lambda x: x['Spell'])
+
         # Write each unique spell to the CSV
-        for spell_data in unique_spells.values():
+        for spell_data in sorted_spells:
             writer.writerow(spell_data)
 
 if __name__ == "__main__":
