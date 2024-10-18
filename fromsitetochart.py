@@ -14,12 +14,13 @@ with open('spellslist.csv', mode='r', newline='', encoding='utf-8') as csvfile:
     spellslist = csv.reader(csvfile)
     
     # Skip header row if there is one
-    next(spellslist, None)  # Comment this line if your CSV does not have a header
+    next(spellslist, None)  # Leave this line if your CSV has a header
     
     # Populate the spells list with the first column (spell names)
     for row in spellslist:
-        if row:  # Ensure the row is not empty
-            spells.append(row[0])
+        if row and row[0]:  # Ensure the row and the first column are not empty
+            spells.append(row[0].strip())  # Strip any surrounding whitespace
+
 
 def clean_segment(segment):
     # Remove single quotes from within parentheses
