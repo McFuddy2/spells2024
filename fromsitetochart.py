@@ -202,6 +202,7 @@ def get_spell_data(spell_name):
             # If no matches are found, treat it as part of the description
             if not (casting_time_match or range_match or components_match or duration_match):
                 description += " " + p_text
+                description = description.replace("Source: Player's Handbook ", "")
 
     else:
         print(spell_name, "ERROR NO PARAGRAPH")
